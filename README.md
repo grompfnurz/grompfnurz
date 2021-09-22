@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grompfnurz
-- 👀 I’m interested in computers, making music and learing a lot of stuff.
+- 👀 I’m interested in computers, making music and learning a lot of other stuff.
 - 🌱 I’m currently learning C#
 - 📫 How to reach me -> grompfnurz@gmail.com
 
